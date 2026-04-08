@@ -21,12 +21,5 @@ Olá, seja muito bem-vindo(a) ao meu perfil!👋
   <a href="https://www.linkedin.com/in/gabriel-tardelli-42a6133b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tardelli77&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tardelli77&layout=compact&theme=tokyonight" />
-</p>
-
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
